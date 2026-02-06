@@ -4,7 +4,7 @@ package atm.timon;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-    private static msg = "Hello qa guru!!!";
+    private static String msg = "Hello qa guru!!!";
     
     public static void main(String... args) {
         System.out.printf(msg);
